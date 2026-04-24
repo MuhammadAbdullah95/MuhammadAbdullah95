@@ -102,8 +102,8 @@ I also teach what I build. I run [The College of AI](https://www.youtube.com/@Th
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAbdullah95&theme=flat&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=MuhammadAbdullah95&theme=flat&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
