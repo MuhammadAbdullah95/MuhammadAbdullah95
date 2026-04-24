@@ -89,8 +89,8 @@ I also teach what I build. I run [The College of AI](https://www.youtube.com/@Th
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAbdullah95&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAbdullah95&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MuhammadAbdullah95&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=MuhammadAbdullah95&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </picture>
 </p>
 
@@ -102,7 +102,9 @@ I also teach what I build. I run [The College of AI](https://www.youtube.com/@Th
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAbdullah95&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAbdullah95&theme=flat&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <p align="center">
