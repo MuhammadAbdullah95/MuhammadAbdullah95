@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/muhammad-abdullah-3a8550255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@TheCollegeOfAI"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="mailto:ma2404374@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAbdullah95&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAbdullah95&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
@@ -77,22 +77,34 @@ I also teach what I build. I run [The College of AI](https://www.youtube.com/@Th
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullah95&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullah95&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullah95&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullah95&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullah95&show_icons=true&include_all_commits=true&theme=default&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullah95&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullah95&layout=compact&langs_count=8&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullah95&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullah95&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullah95&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MuhammadAbdullah95&theme=github-dark-blue&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MuhammadAbdullah95&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=MuhammadAbdullah95&theme=default&hide_border=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAbdullah95&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAbdullah95&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbdullah95&theme=github-dark&hide_border=true&area=true&radius=8" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbdullah95&theme=github-light&hide_border=true&area=true&radius=8" alt="Contribution Activity Graph" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAbdullah95&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadAbdullah95/MuhammadAbdullah95/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
 </p>
