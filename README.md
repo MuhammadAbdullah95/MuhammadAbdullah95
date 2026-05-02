@@ -73,40 +73,10 @@ I also teach what I build. I run [The College of AI](https://www.youtube.com/@Th
 
 ---
 
-### GitHub Analytics
+### Explore my work
+
+The best way to see what I'm building is to look at the code itself. Check out my pinned repositories below for production-grade agent systems, RAG pipelines, and cloud-native backends.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullah95&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullah95&show_icons=true&include_all_commits=true&theme=default&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullah95&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullah95&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MuhammadAbdullah95&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://streak-stats.demolab.com?user=MuhammadAbdullah95&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbdullah95&theme=github-dark&hide_border=true&area=true&radius=8" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbdullah95&theme=github-light&hide_border=true&area=true&radius=8" alt="Contribution Activity Graph" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=MuhammadAbdullah95&theme=flat&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadAbdullah95/MuhammadAbdullah95/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
+  <a href="https://github.com/MuhammadAbdullah95?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse All Repositories" /></a>
 </p>
